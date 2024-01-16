@@ -10,6 +10,8 @@
     Carbon Black App Control
     This script will change the policy of the computers specified in a CSV file to the policy also specified in the CSV file.
 
+API : https://developer.carbonblack.com/reference/enterprise-protection/8.0/rest-api#computer
+
     CSV File Format:
         2 columns
         Column 1 header = Computer
